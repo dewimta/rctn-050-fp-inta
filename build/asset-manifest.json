@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rctn-050-fp-inta/static/css/main.8cc29459.chunk.css",
+    "main.js": "/rctn-050-fp-inta/static/js/main.a7656610.chunk.js",
+    "main.js.map": "/rctn-050-fp-inta/static/js/main.a7656610.chunk.js.map",
+    "runtime-main.js": "/rctn-050-fp-inta/static/js/runtime-main.322f7db5.js",
+    "runtime-main.js.map": "/rctn-050-fp-inta/static/js/runtime-main.322f7db5.js.map",
+    "static/css/2.c490997a.chunk.css": "/rctn-050-fp-inta/static/css/2.c490997a.chunk.css",
+    "static/js/2.c4bfbdac.chunk.js": "/rctn-050-fp-inta/static/js/2.c4bfbdac.chunk.js",
+    "static/js/2.c4bfbdac.chunk.js.map": "/rctn-050-fp-inta/static/js/2.c4bfbdac.chunk.js.map",
+    "static/js/3.eebc9fb5.chunk.js": "/rctn-050-fp-inta/static/js/3.eebc9fb5.chunk.js",
+    "static/js/3.eebc9fb5.chunk.js.map": "/rctn-050-fp-inta/static/js/3.eebc9fb5.chunk.js.map",
+    "index.html": "/rctn-050-fp-inta/index.html",
+    "static/css/2.c490997a.chunk.css.map": "/rctn-050-fp-inta/static/css/2.c490997a.chunk.css.map",
+    "static/css/main.8cc29459.chunk.css.map": "/rctn-050-fp-inta/static/css/main.8cc29459.chunk.css.map",
+    "static/js/2.c4bfbdac.chunk.js.LICENSE.txt": "/rctn-050-fp-inta/static/js/2.c4bfbdac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.322f7db5.js",
+    "static/css/2.c490997a.chunk.css",
+    "static/js/2.c4bfbdac.chunk.js",
+    "static/css/main.8cc29459.chunk.css",
+    "static/js/main.a7656610.chunk.js"
+  ]
+}
